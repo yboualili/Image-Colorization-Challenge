@@ -1,0 +1,14 @@
+fastai>=2.7.9
+torch>=1.13.0
+torchvision>=0.14.0
+transformers>=4.26.0
+scikit-learn>=1.1.2
+glob2>=0.7
+Pillow>=9.2.0
+tqdm>=4.64.1
+matplotlib>=3.6.2
+scikit-image>=0.19.3
+numpy>=1.23.3
+opencv-python>=4.6.0.66
+einops>=0.6.0
+timm>=0.6.13
